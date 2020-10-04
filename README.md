@@ -24,7 +24,7 @@
 - H1 : **P**new − **P**old > 0
 
 #### Hypotesis Precuation 
-- sampleing Distribution 
+- Sampleing Distribution 
 - Bootstraping 
 
 #### prediction Calculation Models
