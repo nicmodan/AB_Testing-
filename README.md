@@ -16,10 +16,16 @@
   ### - Control Group holds the New Page 
 
 ### Parameter and statistics Calculations 
-  - treatment group calculation of mean were converted Occured 
-  - control group calculation of mean were converted Occured 
+  - pold: treatment group calculation of mean were converted Occured 
+  - pnew: control group calculation of mean were converted Occured 
   
 ### Hypotsis Calculation 
-  H0 : pnew − pold ≤ 0
-  H1 : pnew − pold > 0
-  
+- H0 : pnew − pold ≤ 0
+- H1 : pnew − pold > 0
+
+#### Hypotesis Precuation 
+- sampleing Distribution 
+- Bootstraping 
+
+#### prediction Calculation Models
+- Logistic Regression  
