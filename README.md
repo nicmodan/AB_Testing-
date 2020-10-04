@@ -16,8 +16,8 @@
   ### - Control Group holds the New Page 
 
 ### Parameter and statistics Calculations 
-  - Pold: treatment group calculation of mean were converted Occured 
-  - Pnew: control group calculation of mean were converted Occured 
+  - **P**old: treatment group calculation of mean were converted Occured 
+  - **P**new: control group calculation of mean were converted Occured 
   
 ### Hypotsis Calculation 
 - H0 : **P**new − **P**old ≤ 0
