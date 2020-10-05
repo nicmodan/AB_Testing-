@@ -13,8 +13,8 @@
 
 ## Draw Canclutions 
 
-  ### - Treatment Group holds the Old Page 
-  ### - Control Group holds the New Page 
+  - Treatment Group holds the Old Page 
+  - Control Group holds the New Page 
 
 ### Parameter and statistics Calculations 
   - **P**old: treatment group calculation of mean were converted Occured 
